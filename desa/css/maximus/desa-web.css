@@ -1,0 +1,76 @@
+/*
+ * File ini berisi CSS ubahan desa untuk tema 'hadakewa'
+ * CSS ini memakai image:
+ *     - latar belakang body yang ditempatkan di desa/css/hadakewa/images/img1.jpg
+ *     - dan latar belakang header yang ditempatkan di desa/css/hadakewa/images/bg_header.jpg
+ *
+ * desa-web.css ini berisi perubahan untuk styles yang ada di assets/front/css/first.css dan
+ * di themes/hadakewa/css/first.css
+*/
+
+@import url('https://fonts.googleapis.com/css?family=Quicksand');
+
+body{
+  background: url(images/img1.jpg) no-repeat center center fixed;; /*warna background bodi web*/
+}
+
+.topsection{
+  background: url(images/bg_header.jpg);
+}
+
+.map-button {
+	background: #03A9F4;
+    width: 100%;
+	color: #fff;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+}
+.button-comment {
+	background: #03A9F4;
+    width: 100%;
+	color: #fff;
+    text-align: center;
+    padding: 5px;
+    margin-top: 5px;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+}
+.navbar-nav {
+    font-weight: bold;
+    font-family: 'Quicksand', sans-serif;
+}
+.box-header >
+.fa, .box-header >
+.glyphicon, .box-header >
+.ion, .box-header .box-title {
+	font-family: 'Quicksand', sans-serif;
+	text-transform: uppercase;
+	font-weight: bold;
+    font-size: 14px;
+}
+.surat-mandiri {
+	background: #27da66;
+	padding: 10px 0;
+	color: #fff;
+	font-weight: bold;
+	text-align: center;
+}
+input:not([type]),
+input[type="email" i],
+input[type="number" i],
+input[type="password" i],
+input[type="tel" i],
+input[type="url" i],
+input[type="text" i] {
+    border-radius: 0px;
+    border: 1px solid #ddd;
+}
+#form-komentar .pesan textarea {
+	border-radius: 0px;
+}
+.post {
+	line-height: 1.5em;
+}

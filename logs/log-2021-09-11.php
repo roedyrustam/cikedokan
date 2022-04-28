@@ -1,0 +1,29 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-09-11 06:42:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 06:42:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 06:42:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:33 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:33 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:33 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:47 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:47 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:35:48 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:37:22 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:37:22 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:37:22 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:39:32 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:39:32 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 14:39:32 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 16:18:20 --> 404 Page Not Found: Git/HEAD
+ERROR - 2021-09-11 22:16:52 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:52 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:52 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:54 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:54 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:54 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:56 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:56 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:16:56 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-09-11 22:46:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-09-11 22:46:14 --> 404 Page Not Found: Well-known/assetlinks.json

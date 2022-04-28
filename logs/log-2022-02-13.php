@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-02-13 01:32:01 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-13 01:32:02 --> 404 Page Not Found: Well-known/assetlinks.json
+ERROR - 2022-02-13 22:30:34 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:44 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:44 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:45 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:46 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:46 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:50 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:53 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:54 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:30:56 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:31:00 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:31:00 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:31:03 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:31:03 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 22:31:03 --> 404 Page Not Found: Wp-content/plugins
+ERROR - 2022-02-13 23:38:54 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-02-13 23:41:34 --> 404 Page Not Found: Well-known/assetlinks.json

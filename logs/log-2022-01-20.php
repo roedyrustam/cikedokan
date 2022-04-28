@@ -1,0 +1,31 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-01-20 03:39:17 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 03:41:58 --> 404 Page Not Found: Test_404_page/index
+ERROR - 2022-01-20 04:07:16 --> 404 Page Not Found: Assets/bootstrap
+ERROR - 2022-01-20 13:33:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:33:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:33:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:33:45 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:33:45 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:33:45 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:11 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:11 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:11 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:14 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:14 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:34:14 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:54 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:54 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:57 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:57 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 13:35:58 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 18:38:42 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 18:38:42 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 18:38:42 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-01-20 19:16:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 19:17:38 --> 404 Page Not Found: Adstxt/index
+ERROR - 2022-01-20 20:24:07 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 20:24:08 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-01-20 20:36:18 --> 404 Page Not Found: Assets/bootstrap

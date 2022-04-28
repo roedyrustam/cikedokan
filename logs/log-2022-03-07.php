@@ -1,0 +1,35 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2022-03-07 03:18:03 --> 404 Page Not Found: Wp-loadphp/index
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: Stylephp/index
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: Wp-admin/style.php
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: S_ephp/index
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: S_nephp/index
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: 1indexphp/index
+ERROR - 2022-03-07 03:18:07 --> 404 Page Not Found: 3indexphp/index
+ERROR - 2022-03-07 03:18:08 --> 404 Page Not Found: Wikindexphp/index
+ERROR - 2022-03-07 11:55:37 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:38 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:39 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:39 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:40 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:40 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:41 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 11:55:41 --> 404 Page Not Found: Git/config
+ERROR - 2022-03-07 18:23:15 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 21:00:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:28 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:30 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:30 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:30 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 21:00:53 --> 404 Page Not Found: Desa/upload
+ERROR - 2022-03-07 23:45:32 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2022-03-07 23:45:33 --> 404 Page Not Found: Well-known/assetlinks.json

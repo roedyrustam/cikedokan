@@ -1,0 +1,42 @@
+/*
+ * File ini berisi CSS untuk tema 'hadakewa' susunan Happy Agung
+ * CSS ini memakai image:
+ *     - latar belakang body yang ditempatkan di themes/hadakewa/css/images/img1.jpg
+ *     - dan latar belakang header yang ditempatkan di themes/hadakewa/css/images/bg_header.jpg
+ *
+ * first.css ini berisi perubahan untuk styles yang ada di assets/front/css/first.css
+ *
+*/
+.code-error {
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	font-size: 150px;
+	font-weight: bold;
+}
+.info-warning {
+	background: #97cfdd;
+    padding: 10px;
+    margin-bottom: 10px;
+    color: #fff;
+    font-family: 'Quicksand', sans-serif;
+	border-radius: 5px;
+}
+.title-error {
+	text-align: center;
+	font-size: 35px;
+	font-weight: bold;
+	color: red;
+	text-transform: uppercase;
+	font-family: 'Quicksand', sans-serif;
+	margin-bottom: 20px;
+}
+.bubble {
+    background: url(images/bubble.png) no-repeat;
+    margin-top: 50px;
+	padding-right: 30px;
+	margin-left: -30px;
+}
+.team {
+    margin-left: -100px;
+    margin-top: 30px;
+}

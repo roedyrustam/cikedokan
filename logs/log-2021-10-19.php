@@ -1,0 +1,32 @@
+<?php defined('BASEPATH') OR exit('No direct script access allowed'); ?>
+
+ERROR - 2021-10-19 03:29:05 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-19 03:29:06 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-19 09:49:13 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-19 10:48:04 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:04 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:04 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:05 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:05 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:05 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:07 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:07 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:07 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:49 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:49 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:48:49 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:49:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:49:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 10:49:00 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:24:59 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:25:01 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:25:01 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 11:25:01 --> 404 Page Not Found: Desa/upload
+ERROR - 2021-10-19 12:12:59 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-19 22:50:14 --> 404 Page Not Found: Robotstxt/index
+ERROR - 2021-10-19 22:50:15 --> 404 Page Not Found: Well-known/assetlinks.json
